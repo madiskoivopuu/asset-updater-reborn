@@ -1,0 +1,14 @@
+{
+    "pricepoints": [
+        {"timeOffset": "0d0h0min0s", "price": 499}, {"timeOffset": "6h", "price": 350}, {"timeOffset": "7h", "price": 300}, {"timeOffset": "9h", "price": 250}, {"timeOffset": "12h", "price": 200}, {"timeOffset": "15h", "price": 180}, {"timeOffset": "20h", "price": 170},
+        {"timeOffset": "1d", "price": 150}, {"timeOffset": "1d6h", "price": 110}, {"timeOffset": "1d12h", "price": 150}, {"timeOffset": "1d18h", "price": 170}, {"timeOffset": "1d22h", "price": 150},
+        {"timeOffset": "2d", "price": 130}, {"timeOffset": "2d6h", "price": 40}, {"timeOffset": "2d12h", "price": 20}, {"timeOffset": "2d18h", "price": 5},
+        {"timeOffset": "3d", "price": 5}, {"timeOffset": "3d12h", "price": 12}, {"timeOffset": "3d18h", "price": 30},
+        {"timeOffset": "4d", "price": 80}, {"timeOffset": "4d2h", "price": 120}, {"timeOffset": "4d6h", "price": 150}, {"timeOffset": "4d12h", "price": 220}, {"timeOffset": "4d16h", "price": 240},
+        {"timeOffset": "5d", "price": 5}, {"timeOffset": "5d3h", "price": 280}, {"timeOffset": "5d6h", "price": 310}, {"timeOffset": "5d12h", "price": 20}, {"timeOffset": "5d14h", "price": 350}, {"timeOffset": "5d18h", "price": 400},
+        {"timeOffset": "6d", "price": 420}, {"timeOffset": "6d6h", "price": 320}, {"timeOffset": "6d12h", "price": 220}, {"timeOffset": "6d15h", "price": 290}, {"timeOffset": "6d18h", "price": 340}, {"timeOffset": "6d20h", "price": 420}, {"timeOffset": "6d22h", "price": 510},
+        {"timeOffset": "7d", "price": 499}
+    ],
+    "ratiosAndOffsets": [{"ratio": 1, "offset": 0}],
+    "anchorTime": 1655078400
+}
